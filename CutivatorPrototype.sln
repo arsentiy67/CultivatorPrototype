@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3560BBAA-B8A0-BA43-1D65-D0AB3BAA0731}") = "CutivatorPrototype", "Assembly-CSharp.csproj", "{B29C7782-C7B5-07E4-ECDA-75D7C0596340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B29C7782-C7B5-07E4-ECDA-75D7C0596340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29C7782-C7B5-07E4-ECDA-75D7C0596340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29C7782-C7B5-07E4-ECDA-75D7C0596340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29C7782-C7B5-07E4-ECDA-75D7C0596340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
